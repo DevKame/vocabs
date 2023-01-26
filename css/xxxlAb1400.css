@@ -5,7 +5,7 @@ Sollte mein Projekt fertig sein, kann ich eigentlich alle Dinge die ich NICHT
 
 @media screen and (min-width: 1401px) {
     .mMenu-buttons {
-        font-size: clamp(65px, 6vmin, 75px);
+        font-size: clamp(55px, 6vmin, 60px);
     }
     #titleMainMenu {
         top: 5%;
